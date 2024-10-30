@@ -1,4 +1,4 @@
-# 3D Reconstruction using Local Feature Transformers
+# Camera Pose Estimation using Local Feature Transformers
 
 The process to reconstruct 3D objects and buildings from images is called Structure-from-Motion (SfM). Typically, these images are captured by skilled operators under controlled conditions, ensuring homogeneous, high-quality data. It is much more difficult to build 3D models from assorted images, given a wide variety of viewpoints, lighting and weather conditions, occlusions from people and vehicles, and even user-applied filters. 
 
